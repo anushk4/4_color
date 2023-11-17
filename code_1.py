@@ -1,6 +1,5 @@
 import sys
 import matplotlib.pyplot as plt
-# from matplotlib.colors import ListedColormap
 
 def plot_color_map(color_map):
     color_dict = {'R': 'red', 'G': 'green', 'Y': 'yellow', 'B': 'blue'}
