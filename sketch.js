@@ -285,7 +285,6 @@ function update_pixels() {
 function findNodes() {
     for (let y = 0; y < grid_h; y++) {
         for (let x = 0; x < grid_w; x++) {
-            console.log(color(grid[grid_w * y + x]).toString());
             if (color(grid[grid_w * y + x]).toString() == white.toString()) {
                 let col;
                 do {
