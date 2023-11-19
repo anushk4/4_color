@@ -16,3 +16,4 @@ The python code uses the Breadth First Search algorithm twice to find out the co
 ## Important notes for running
 - The test case file should be included within the `test_cases` directory only for it to be read successfully by the application.
 - Each node is represented by a cluster of numbers. Refer to sample test cases in the `test_cases` directory to generate your own test case.
+- The test case should be in a rectangular or square form only.
